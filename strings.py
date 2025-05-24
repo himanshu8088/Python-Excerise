@@ -14,6 +14,9 @@ print(course[:])  # Python Programming
 print('Python "Programming"')  # Python "Programming"
 print("Python \"Programming\"")  # Python "Programming"
 
+fruit = 'apple'
+print(fruit[1: -2]) ## pp
+
 first = 'Himanshu'
 last = 'Soni'
 full = first + ' ' + last
