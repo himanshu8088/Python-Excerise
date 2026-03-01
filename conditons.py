@@ -1,4 +1,6 @@
 # temp = int(input("What is the temperature? "))
+
+
 temp = 10
 if temp > 30:
     print("It's a hot day")
@@ -25,5 +27,5 @@ print(message)  # Eligible
 
 # Using Ternary Operator
 
-message = "Eligible" if age>=18 else "Not Eligible"
+message = "Eligible" if age >= 18 else "Not Eligible"
 print(message)  # Eligible

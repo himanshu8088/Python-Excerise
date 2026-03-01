@@ -1,4 +1,5 @@
-x = 1
+a = 1
+print(f"a:{a}")  # 1
 x = 1.1
 x = 1 + 2j
 print(x)  # (1+2j)
@@ -19,3 +20,4 @@ print(complex(2, 3))  # (2+3j)
 print(1 + 2j + 3 + 4j)  # (4+6j)
 print(1 + 2j * 3 + 4j)  # (1+10j)
 print(1 + 2j * (3 + 4j))  # (-7+6j)
+
