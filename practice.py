@@ -492,8 +492,6 @@ def save_user(**user):
 save_user(id=1, name="Himanshu", age=22)
 
 print("\n--- Classes ---\n")
-
-
 class Point:
     color = "red"  # Class variable
 
